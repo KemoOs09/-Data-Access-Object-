@@ -29,3 +29,8 @@ El sistema crea automáticamente una base de datos SQLite llamada "ejemplo.db" c
 - Nombre (texto, obligatorio)
 - Email (texto, único, obligatorio)
 - Edad (entero)
+
+
+## Diagrama UML
+
+![El texto del párrafo](https://github.com/user-attachments/assets/5454f0d5-c433-41ac-a12c-c19ec250fc7c)
