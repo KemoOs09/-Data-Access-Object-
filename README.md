@@ -6,11 +6,11 @@ Este programa implementa un sistema básico de gestión de usuarios utilizando e
 #Estructura del Programa
 El programa está organizado en cinco archivos principales:
 
-modelo.py: Define la entidad Usuario
-dao_interface.py: Define la interfaz DAO con métodos abstractos
-dao_sqlite.py: Implementa la interfaz DAO para bases de datos SQLite
-factory.py: Crea instancias concretas de DAOs
-main.py: Punto de entrada del programa con ejemplos de uso
+-modelo.py: Define la entidad Usuario
+-dao_interface.py: Define la interfaz DAO con métodos abstractos
+-dao_sqlite.py: Implementa la interfaz DAO para bases de datos SQLite
+-factory.py: Crea instancias concretas de DAOs
+-main.py: Punto de entrada del programa con ejemplos de uso
 
 #Flujo de Operación
 
